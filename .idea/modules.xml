@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_09_Guess_the_number_game.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_09_Guess_the_number_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_09_Guess_the_number_game.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_09_Guess_the_number_game.app.iml" />
+    </modules>
+  </component>
+</project>
